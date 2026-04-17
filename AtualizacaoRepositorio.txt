@@ -1,5 +1,5 @@
-For(i=10,i<=10,i--){
+#repetição/loop
+i=0;
+while(i<10){
  i = i+1;
- break
 }
- 
